@@ -1,13 +1,8 @@
 from time import sleep
-from os import system
 # imports
-
-clear = lambda: system("cls")
-# clear the screen
 
 
 def createcon():
-    clear()
     name = input("What's the name of your contact?\nYour contact's name:")
     sleep(0.3)
     print("processing...")
