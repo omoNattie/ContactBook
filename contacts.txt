@@ -1,2 +1,2 @@
-name: Gay, number: 1233836
-name: owo, number: 8712378912
+name: sample1, number: 1233836
+name: sample2, number: 8712378912
